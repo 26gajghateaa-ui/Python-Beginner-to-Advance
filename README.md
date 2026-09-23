@@ -35,7 +35,6 @@
 
 ![App Screenshot](https://i.ibb.co/Fb1r7THb/Screenshot-2026-09-23-163733.png)
 
-## Convert seconds into hours, minutes and 
-seconds 
+## Convert seconds into hours and minutes  
 
 ![App Screenshot](https://i.ibb.co/ZRBL46qX/Screenshot-2026-09-23-163916.png)
