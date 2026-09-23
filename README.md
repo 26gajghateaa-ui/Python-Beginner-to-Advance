@@ -38,3 +38,26 @@
 ## Convert seconds into hours and minutes  
 
 ![App Screenshot](https://i.ibb.co/ZRBL46qX/Screenshot-2026-09-23-163916.png)
+
+
+## Check whether a number is positive, negative or zero
+
+![App Screenshot](https://i.ibb.co/gZgpGsw8/Screenshot-2026-09-23-164937.png)
+
+## Check whether a number is even or odd 
+
+![App Screenshot](https://i.ibb.co/Q7r2sr1j/Screenshot-2026-09-23-165131.png)
+
+## Check whether a person is eligible to vote
+
+![App Screenshot](https://i.ibb.co/4Ryp7f2Z/Screenshot-2026-09-23-165315.png)
+
+## Find greater of two numbers
+
+![App Screenshot](https://i.ibb.co/W472WMyg/Screenshot-2026-09-23-165431.png)
+
+## Find greatest of three numbers
+
+![App Screenshot](https://i.ibb.co/WvwRYcDQ/Screenshot-2026-09-23-165602.png)
+
+
