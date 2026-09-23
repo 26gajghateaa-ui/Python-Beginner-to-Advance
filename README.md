@@ -18,3 +18,24 @@
 ## Calculate area of a circle 
 
 ![App Screenshot](https://i.ibb.co/WNyYk8qM/Screenshot-2026-09-23-163101.png)
+
+## Calculate simple interest
+
+![App Screenshot](https://i.ibb.co/Q7JWRQvy/Screenshot-2026-09-23-163248.png)
+
+## Convert Celsius to Fahrenheit
+
+![App Screenshot](https://i.ibb.co/cKBx5TRw/Screenshot-2026-09-23-163418.png)
+
+## Calculate total and percentage of 5 subjects
+
+![App Screenshot](https://i.ibb.co/rG9THLbg/Screenshot-2026-09-23-163558.png)
+
+## Swap two numbers 
+
+![App Screenshot](https://i.ibb.co/Fb1r7THb/Screenshot-2026-09-23-163733.png)
+
+## Convert seconds into hours, minutes and 
+seconds 
+
+![App Screenshot](https://i.ibb.co/ZRBL46qX/Screenshot-2026-09-23-163916.png)
