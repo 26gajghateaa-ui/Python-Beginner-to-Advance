@@ -119,3 +119,25 @@
 ## Count from 1 to N
 
 ![App Screenshot](https://i.ibb.co/F442C82Q/Screenshot-2026-09-25-143302.png)
+
+## Count even numbers from 1–N
+
+![App Screenshot](https://i.ibb.co/j9YqgJSn/Screenshot-2026-09-25-143921.png)
+
+## Count odd numbers from 1–N
+
+![App Screenshot](https://i.ibb.co/8nGRsHZD/Screenshot-2026-09-25-144139.png)
+
+## Sum even numbers
+
+![App Screenshot](https://i.ibb.co/35gBXPZy/Screenshot-2026-09-25-144424.png)
+
+## Sum odd numbers
+
+![App Screenshot](https://i.ibb.co/d4N0fQ8v/Screenshot-2026-09-25-144648.png)
+
+## Find largest number from 1–N
+
+![App Screenshot](https://i.ibb.co/8n1J7h3h/Screenshot-2026-09-25-144838.png)
+
+
