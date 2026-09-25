@@ -60,4 +60,24 @@
 
 ![App Screenshot](https://i.ibb.co/WvwRYcDQ/Screenshot-2026-09-23-165602.png)
 
+## Check whether a year is a leap year
+
+![App Screenshot](https://i.ibb.co/qYgcWQbc/Screenshot-2026-09-25-140432.png)
+
+## Check whether a number is divisible by 5 and 11
+
+![App Screenshot](https://i.ibb.co/vxPn26Kb/Screenshot-2026-09-25-140706.png)
+
+## Check whether a number lies between 10 and 50
+
+![App Screenshot](https://i.ibb.co/JW3rYd7C/Screenshot-2026-09-25-140904.png)
+
+## Simple calculator using if/elif
+
+![App Screenshot](https://i.ibb.co/b5KWTSmC/Screenshot-2026-09-25-141104.png)
+
+## Grade calculator from marks
+
+![App Screenshot](https://i.ibb.co/cStt9M9q/Screenshot-2026-09-25-141239.png)
+
 
