@@ -160,6 +160,31 @@
 
 ![App Screenshot](https://i.ibb.co/0VDZX7hK/Screenshot-2026-09-25-145651.png)
 
+## Increasing  *  triangle
+
+![App Screenshot](https://i.ibb.co/8g1Fq6Rx/Screenshot-2026-09-25-151221.png)
+
+## Decreasing  *  triangle
+
+![App Screenshot](https://i.ibb.co/HkwjVbf/Screenshot-2026-09-25-151405.png)
+
+## Number triangle
+
+![App Screenshot](https://i.ibb.co/Gf5D3pRJ/Screenshot-2026-09-25-151552.png)
+
+## Repeated-number triangle
+
+![App Screenshot](https://i.ibb.co/pmGq79s/Screenshot-2026-09-25-151805.png)
+
+## Square pattern
+
+![App Screenshot](https://i.ibb.co/zH5tx7pq/Screenshot-2026-09-25-151931.png)
+
+
+
+
+
+
 
 
 
