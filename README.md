@@ -140,4 +140,27 @@
 
 ![App Screenshot](https://i.ibb.co/8n1J7h3h/Screenshot-2026-09-25-144838.png)
 
+## Find smallest number from 1–N
+
+![App Screenshot](https://i.ibb.co/Gf6rh65D/Screenshot-2026-09-25-145059.png)
+
+## Count numbers divisible by 3
+
+![App Screenshot](https://i.ibb.co/q3yWrJTV/Screenshot-2026-09-25-145235.png)
+
+## Print factors of a number
+
+![App Screenshot](https://i.ibb.co/G4WwnmFZ/Screenshot-2026-09-25-145357.png)
+
+## Check whether a number is prime
+
+![App Screenshot](https://i.ibb.co/4RjBJBxd/Screenshot-2026-09-25-145521.png)
+
+## Print prime numbers from 1–N
+
+![App Screenshot](https://i.ibb.co/0VDZX7hK/Screenshot-2026-09-25-145651.png)
+
+
+
+
 
