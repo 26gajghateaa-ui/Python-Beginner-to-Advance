@@ -99,3 +99,23 @@
 ## Print multiples of 5
 
 ![App Screenshot](https://i.ibb.co/qYSbvmJC/Screenshot-2026-09-25-142438.png)
+
+## Print multiplication table
+
+![App Screenshot](https://i.ibb.co/yCDKtz5/Screenshot-2026-09-25-142737.png)
+
+## Sum numbers 1–10
+
+![App Screenshot](https://i.ibb.co/RGNDb4MW/Screenshot-2026-09-25-142858.png)
+
+## Sum numbers 1–N
+
+![App Screenshot](https://i.ibb.co/BKjFBMYt/Screenshot-2026-09-25-143024.png)
+
+## Find factorial of N
+
+![App Screenshot](https://i.ibb.co/jvS0FZ4B/Screenshot-2026-09-25-143136.png)
+
+## Count from 1 to N
+
+![App Screenshot](https://i.ibb.co/F442C82Q/Screenshot-2026-09-25-143302.png)
