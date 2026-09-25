@@ -80,4 +80,22 @@
 
 ![App Screenshot](https://i.ibb.co/cStt9M9q/Screenshot-2026-09-25-141239.png)
 
+## Print numbers 1–10
 
+![App Screenshot](https://i.ibb.co/27LtKfk3/Screenshot-2026-09-25-141422.png)
+
+## Print numbers 10–1
+
+![App Screenshot](https://i.ibb.co/NgmC2HKk/Screenshot-2026-09-25-141614.png)
+
+## Print even numbers 1-100
+
+![App Screenshot](https://i.ibb.co/jkBwzt69/Screenshot-2026-09-25-141743.png)
+
+## Print odd numbers 1–100
+
+![App Screenshot](https://i.ibb.co/GQqJtZ8m/Screenshot-2026-09-25-142257.png)
+
+## Print multiples of 5
+
+![App Screenshot](https://i.ibb.co/qYSbvmJC/Screenshot-2026-09-25-142438.png)
